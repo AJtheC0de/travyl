@@ -194,10 +194,3 @@ input[type="submit"]:hover {
   text-align: center;
   cursor: pointer;
 }
-
-.registerField a {
-  font-family: "Manrope";
-  font-size: 12px;
-  text-decoration: none;
-  color: blue;
-}
